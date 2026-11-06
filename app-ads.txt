@@ -1,3 +1,4 @@
+chartboost.com, 5ed67d32780cca089ae819fd, DIRECT
 google.com, pub-5385854942476038, DIRECT, f08c47fec0942fa0
 onlinemediasolutions.com, 23120, RESELLER
 yeahmobi.com, 5135195, RESELLER
